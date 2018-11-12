@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "34170435164",
+    "firebase_url": "https://interntask-3b168.firebaseio.com",
+    "project_id": "interntask-3b168",
+    "storage_bucket": "interntask-3b168.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34170435164:android:7963322de968b7eb",
+        "android_client_info": {
+          "package_name": "com.example.venkat_sai.interntask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34170435164-26h0nd41fcoatqom0qiahcfjbqfrdsj4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.venkat_sai.interntask",
+            "certificate_hash": "b0e2999ea93c78afa17893de0eb24f1197f30d3e"
+          }
+        },
+        {
+          "client_id": "34170435164-pa0uhl3s5e0qurcpk0dt9devv8sbaap0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmcZQk5kzVXavCKMCvEU4bdcHsq9sRpN4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34170435164-pa0uhl3s5e0qurcpk0dt9devv8sbaap0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
